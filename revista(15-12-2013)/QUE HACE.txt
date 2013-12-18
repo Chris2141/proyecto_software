@@ -1,0 +1,17 @@
+(03-12-2013)
+-accesa desde el index al panel de adminsitrador
+-lista adminsitradores
+-logea adminsitradores
+(04-12-2013)
+-Se validan los datos en el formulario de generar nuevo adminsitrador, antes de ser enviados a la base de datos
+(05-12-2013)
+-mejora en el index
+-listado de articulos
+-agregar articulos 
+-validar datos del articulo antes de guardar en db
+(14-12-2013)
+-Coneccion con PosgreSQL
+-Lista usuarios en BD posgre
+-Login sin problema
+
+
